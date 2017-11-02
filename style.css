@@ -1,17 +1,24 @@
 #header{
     background-color: #BC3CBC;
     color:white;
-    padding:30px;
+    padding:20px;
+    font-family: Verdana;
 }
 
 button{
     background-color: #368BC1;
-    color:white;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size:  15px !important;
+    padding: 10px 20px !important;
 }
 
 #container{
     background-color:#E9CFEC;
-    font-family: Arial;
-    font-size: 14px;
+    font-family: Verdana;
+    font-size: 16px;
+    padding:5px;
 }
     
